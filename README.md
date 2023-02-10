@@ -6,13 +6,25 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msalvati1997/)](https://www.linkedin.com/in/msalvati1997/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salvatimartina97@gmail.com)](mailto:salvatimartina97@gmail.com)
 
-### Hi there! 👋
-
-- :woman_technologist: **Software Engineer**
-- :woman_astronaut: Currently majoring in Software Engineering
-- :woman_technologist: I am currently looking for Junior Software Engineer roles
+### :woman_technologist: About Me 
+-  **Software Engineer**
+-  Currently majoring in Software Engineering
+-  I am currently looking for Junior Software Engineer roles
 - 🎯 Based in Rome, Italy.
-- 💻 Python, Go, C , Java ,  Node.js and **more**.
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+
+
+</div>
 
 
 ---
