@@ -11,6 +11,7 @@
 - :woman_technologist: **Software Engineer**
 - :woman_astronaut: Currently majoring in Software Engineering
 - :woman_technologist: I am currently looking for Junior Software Engineer roles
+- 🎯 Based in Rome, Italy.
 - 💻 Python, Go, C , Java ,  Node.js and **more**.
 
 
