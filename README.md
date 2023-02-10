@@ -12,7 +12,6 @@
 - :woman_astronaut: Currently majoring in Software Engineering
 - :woman_technologist: I am currently looking for Junior Software Engineer roles
 - 💻 Python, Go, C , Java ,  Node.js and **more**.
-- 💻 I’m looking to collaborate on any project that could help develop my skills
 
 
 ---
