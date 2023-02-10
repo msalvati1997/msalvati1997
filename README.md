@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**msalvati1997/msalvati1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :woman_technologist: Martina Salvati
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msalvati1997" alt="msalvati1997" /> </p>
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/msalvati1997)](https://github.com/msalvati1997)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msalvati1997/)](https://www.linkedin.com/in/msalvati1997/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salvatimartina97@gmail.com)](mailto:salvatimartina97@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there! 👋
+
+- :woman_technologist: **Software Engineer**
+- :woman_astronaut: Currently majoring in Software Engineering
+- 💻 Python, Go, C , Java ,  Node.js and **more**.
+
+
+---
