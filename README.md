@@ -9,7 +9,6 @@
 ### :woman_technologist: About Me 
 -  **Software Engineer**
 -  Currently majoring in Software Engineering
--  Looking for Junior Software Engineer roles
 - 🎯 Based in Rome, Italy.
 
 ### :hammer_and_wrench: Languages and Tools :
